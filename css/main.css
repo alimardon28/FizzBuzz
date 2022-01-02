@@ -1,0 +1,21 @@
+.form{
+    margin: 0 auto;
+}
+
+.input{
+    color: #fff;
+}
+.mark{
+    margin-right: 10px;
+}
+
+.alert{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 500;
+}
+
+.body{
+    background-color: rgb(7, 42, 87);
+}
